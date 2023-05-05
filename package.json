@@ -1,0 +1,17 @@
+{
+  "name": "rename-files",
+  "version": "1.0.0",
+  "description": "rename-files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "KremoWy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "nodemon": "^2.0.22"
+  }
+}
